@@ -1,4 +1,4 @@
-# 🚀 ASP.NET MVC CRUD Application using Entity Framework
+# 🚀 ASP.NET MVC CRUD Application using Entity Framework (ZesTec)
 
 ## 📌 Project Overview
 This project is a **CRUD (Create, Read, Update, Delete)** web application built using **ASP.NET MVC** and **Entity Framework (EF)** with a **Database-First approach**. It manages employee data including name, designation, and salary.
@@ -34,7 +34,7 @@ Table: **EmployeeMaster**
 | ID          | int        | Primary Key            |
 | Name        | string     | Employee Full Name     |
 | Designation | string     | Job Title              |
-| Salary      | decimal    | Monthly Salary         |
+| Salary      | decimal    | Yearly Salary          |
 
 Entity Framework's `.edmx` file (`CRUD_with_EF.edmx`) is used to auto-generate the context class `CRUD_with_EFEntities` and the entity model `EmployeeMaster`.
 
