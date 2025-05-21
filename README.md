@@ -54,4 +54,4 @@ This project is part of a coding round for ZesTec and not actively maintained. H
 ---
 
 ## 📬 Contact
-For any queries related to this project or hiring process, feel free to reach out via Email (akashmagaji1213@gmail.com) LinkedIn.
+For any queries related to this project or hiring process, feel free to reach out via Email (akashmagaji1213@gmail.com) or LinkedIn.
